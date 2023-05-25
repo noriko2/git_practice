@@ -1,3 +1,4 @@
 bのテキスト
 feature/1での変更
 feature/3での変更
+feature/4での変更
