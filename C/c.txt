@@ -3,3 +3,4 @@ cのテキスト
 feature/2での変更
 feature/3での変更
 feature/7での変更
+feature/8での変更
